@@ -9,14 +9,14 @@
 }
 .eli5-footer {
     font-size: 1rem;
-    color: blue;
+    color: rgb(23, 125, 228);
 }
 .eli5-comment-count span {
     font-size: 1rem;
     color: gray;
 }
 .eli5-container {
-    padding: 0rem;
+    padding: 0.4rem;
     width: 18rem;
     border: 1px solid lightgrey;
     border-radius: 4px;
