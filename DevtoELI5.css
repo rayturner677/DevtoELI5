@@ -1,0 +1,46 @@
+/* .eli5-container * {
+    margin: 0rem;
+    padding: 0rem;
+} */
+.title {
+    color: black;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.eli5-footer {
+    font-size: 1rem;
+    color: blue;
+}
+.eli5-comment-count span {
+    font-size: 1rem;
+    color: gray;
+}
+.eli5-container {
+    padding: 0rem;
+    width: 18rem;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+}
+
+.eli5-header {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1rem;
+}
+.eli5-container a {
+    text-decoration: none;
+}
+
+.eli5-item {
+    color: aquamarine;
+}
+
+.eli5-item-list {
+    padding: 0rem;
+    padding-top: 0rem;
+    padding-left: 0.7rem;
+    margin: 0.7rem;
+}
+
+.eli5-container p {
+    margin: 0.3rem;
+}
